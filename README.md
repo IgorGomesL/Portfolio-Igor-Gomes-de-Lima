@@ -8,7 +8,7 @@ O objetivo deste trabalho é a criação de um **portfólio pessoal responsivo**
 
 - HTML5
 - CSS3
-- JavaScript (puro, sem frameworks)
+- JavaScript
 
 O site apresenta informações pessoais, formação acadêmica, projetos desenvolvidos e um formulário de contato com validação.
 
